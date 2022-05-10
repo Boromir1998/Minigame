@@ -1,0 +1,25 @@
+\\Homework etc
+
+✅ Enemies - create sprites
+
+✅ End screen - Exit or Play Again? [FIX!]
+
+✅ Difficulty - numbers of sprites, timer
+
+Moving Coins / different objects / buffs (speed, freeze clock, jumping boost, invincibility, minion, increased pickup radius)
+
+Multiple Players
+
+Randomly Generated Maps
+
+✅ Fix walls around edges
+
+✅ F1 to restart
+
+✅ Fix difficulty levels
+
+✅ Reposition Home page buttons
+
+>> Highscore table
+
+✅ Lives (health bar inbuilt function draw health bar)
